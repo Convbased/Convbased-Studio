@@ -39,7 +39,7 @@
 | 声码器 | 32k | 40k | 48k |
 |:---:|:---:|:---:|:---:|
 | **HiFi-GAN MRF** | 🚧 即将发布 | 🚧 即将发布 | 🚧 即将发布 |
-| **HiFi-GAN NSF** | 🚧 即将发布 | 🚧 即将发布 | [![Download](https://img.shields.io/badge/下载-HuggingFace-yellow)](https://huggingface.co/PluginsKers/Convbased-Studio/blob/main/convbased_v1_nsf_48k.pth) |
+| **HiFi-GAN NSF** | 🚧 即将发布 | 🚧 即将发布 | [![Download](https://img.shields.io/badge/下载-HuggingFace-yellow)](https://huggingface.co/PluginsKers/Convbased-Studio) |
 | **HiFi-GAN** | 🚧 即将发布 | 🚧 即将发布 | 🚧 即将发布 |
 | **RefineGAN** | 🚧 即将发布 | 🚧 即将发布 | 🚧 即将发布 |
 
