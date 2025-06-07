@@ -115,4 +115,7 @@ pip install -r requirements.txt
 
 ---
 
-*本模型致力于推进中文语音合成技术的发展，该底模已用于微调大部分模型于 [Convbased](https://weights.chat/)*
+![dbe327da212afd5f41f819a817e08b68](https://github.com/user-attachments/assets/c6be570b-1ea5-4811-b253-2d993d5f574a)
+
+
+*本模型致力于推进中文语音合成技术的发展，该底模已用于微调大部分模型于 [Convbased](https://weights.chat/) 提供使用*
