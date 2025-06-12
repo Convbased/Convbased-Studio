@@ -6,7 +6,7 @@ import datetime
 import glob
 import json
 from collections import deque
-from distutils.util import strtobool
+from distutils.util import strtobool  # type: ignore
 from random import randint, shuffle
 from time import time as ttime
 
@@ -41,7 +41,7 @@ from utils import (
 )
 
 from algorithm import commons
-from train.process.extract_model import extract_model
+from extract_model import extract_model
 
 # Parse command line arguments
 model_name = sys.argv[1]

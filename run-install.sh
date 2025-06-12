@@ -176,7 +176,6 @@ if [ "$(uname)" = "Darwin" ]; then
         fi
     fi
 
-    brew install faiss
     export PYTORCH_ENABLE_MPS_FALLBACK=1
     export PYTORCH_MPS_HIGH_WATERMARK_RATIO=0.0
     export PATH="$(brew --prefix)/bin:$PATH"  
