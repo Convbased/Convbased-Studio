@@ -94,7 +94,7 @@ pip install -r requirements.txt
 
 ## 🙏 致谢
 
-感谢 [Applio](https://github.com/IAHispano/Applio) 项目为语音转换领域做出的卓越贡献。Applio作为一个强大的语音转换工具，专注于简单性、质量和性能，为我们的研究和开发提供了重要的参考和启发。
+感谢 [RVC](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI) 项目为语音转换领域做出的卓越贡献。
 
 
 感谢 [Convbased](https://weights.chat/) 为本项目提供计算服务，Convbased 致力于推进中文语音合成技术与云计算的发展。
