@@ -42,6 +42,7 @@
 | **HiFi-GAN NSF** | 🚧 即将发布 | 🚧 即将发布 | [![Download](https://img.shields.io/badge/下载-HuggingFace-yellow)](https://huggingface.co/PluginsKers/Convbased-Studio) |
 | **HiFi-GAN** | 🚧 即将发布 | 🚧 即将发布 | 🚧 即将发布 |
 | **RefineGAN** | 🚧 即将发布 | 🚧 即将发布 | 🚧 即将发布 |
+| **SiFiGAN** | 🚧 即将发布 | 🚧 即将发布 | 🚧 即将发布 |
 
 > 💡 **使用建议**: 推荐使用 HiFi-GAN NSF 48k 模型，具有最佳的音质表现和训练稳定性。
 
@@ -94,7 +95,7 @@ pip install -r requirements.txt
 
 ## 🙏 致谢
 
-感谢 [Convbased](https://weights.chat/) 为本项目提供计算服务，Convbased 致力于推进中文语音合成技术与云计算的发展。References
+感谢 [Convbased](https://weights.chat/) 为本项目提供计算服务，Convbased 致力于推进中文语音合成技术与云计算的发展。
 
 ## 📄 许可证
 
@@ -113,14 +114,13 @@ pip install -r requirements.txt
 ---
 
 
-## 参考文献
+## 📕引用
 
 [RVC](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI)
  
 [rvc-cli](https://github.com/blaisewf/rvc-cli)
 
 [Applio](https://github.com/IAHispano/Applio)
-
 
 ![dbe327da212afd5f41f819a817e08b68](https://github.com/user-attachments/assets/c6be570b-1ea5-4811-b253-2d993d5f574a)
 
