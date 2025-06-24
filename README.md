@@ -94,14 +94,11 @@ pip install -r requirements.txt
 
 ## 🙏 致谢
 
-感谢 [RVC](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI) 项目为语音转换领域做出的卓越贡献。
-
-
-感谢 [Convbased](https://weights.chat/) 为本项目提供计算服务，Convbased 致力于推进中文语音合成技术与云计算的发展。
+感谢 [Convbased](https://weights.chat/) 为本项目提供计算服务，Convbased 致力于推进中文语音合成技术与云计算的发展。References
 
 ## 📄 许可证
 
-本项目采用 Apache License 2.0 许可证，详见 [LICENSE](LICENSE) 文件。
+本项目采用 MIT 许可证，详见 [LICENSE](LICENSE) 文件。
 
 ## 🤝 贡献
 
@@ -114,6 +111,16 @@ pip install -r requirements.txt
 - 发送邮件至项目维护者
 
 ---
+
+
+## 参考文献
+
+[RVC](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI)
+ 
+[rvc-cli](https://github.com/blaisewf/rvc-cli)
+
+[Applio](https://github.com/IAHispano/Applio)
+
 
 ![dbe327da212afd5f41f819a817e08b68](https://github.com/user-attachments/assets/c6be570b-1ea5-4811-b253-2d993d5f574a)
 
