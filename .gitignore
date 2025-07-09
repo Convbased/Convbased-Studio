@@ -14,7 +14,6 @@ __pycache__
 *.wav
 *.txt
 *.zip
-*.png
 *.safetensors
 
 assets/audios
