@@ -13,15 +13,15 @@
 
 | 特征提取 | 声码器 | 40k | 48k |
 |-----------|--------|-----|-----|
-| contentvec | hifigannsf | ❌ | [![Download](https://img.shields.io/badge/下载-HuggingFace-yellow)](https://huggingface.co/PluginsKers/Convbased-Studio) |
-| contentvec | sifigan | ❌ | [![Download](https://img.shields.io/badge/下载-HuggingFace-yellow)](https://huggingface.co/PluginsKers/Convbased-Studio) |
+| contentvec | hifigannsf | ❌ | [![Download](https://img.shields.io/badge/下载-HuggingFace-yellow)](https://huggingface.co/PluginsKers/Convbased-Studio/tree/main/embedders/contentvec/hifigan-nsf/476sid) |
+| contentvec | sifigan | ❌ | [![Download](https://img.shields.io/badge/下载-HuggingFace-yellow)](https://huggingface.co/PluginsKers/Convbased-Studio/tree/main/embedders/contentvec/sifigan) |
 | contentvec | refinegan | ❌ | ❌ |
 | contentvec | hifiganmrf | ❌ | ❌ |
 | spin | hifigannsf | ❌ | ❌ |
-| spin | sifigan | ❌ | [![Download](https://img.shields.io/badge/下载-HuggingFace-yellow)](https://huggingface.co/PluginsKers/Convbased-Studio) |
+| spin | sifigan | ❌ | [![Download](https://img.shields.io/badge/下载-HuggingFace-yellow)](https://huggingface.co/PluginsKers/Convbased-Studio/tree/main/embedders/spin/sifigan) |
 | spin | refinegan | ❌ | ❌ |
 | spin | hifiganmrf | ❌ | ❌ |
-| chinese-hubert-base | hifigannsf | ❌ | [![Download](https://img.shields.io/badge/下载-HuggingFace-yellow)](https://huggingface.co/PluginsKers/Convbased-Studio) |
+| chinese-hubert-base | hifigannsf | ❌ | [![Download](https://img.shields.io/badge/下载-HuggingFace-yellow)](https://huggingface.co/PluginsKers/Convbased-Studio/tree/main/embedders/chinese-hubert-base/hifigan-nsf) |
 | chinese-hubert-base | sifigan | ❌ | ❌ |
 | chinese-hubert-base | refinegan | ❌ | ❌ |
 | chinese-hubert-base | hifiganmrf | ❌ | ❌ |
@@ -33,14 +33,6 @@
 ## 贡献
 
 欢迎提交Issues和Pull Requests来帮助改进项目！
-
-## 引用
-
-[RVC](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI)
- 
-[rvc-cli](https://github.com/blaisewf/rvc-cli)
-
-[Applio](https://github.com/IAHispano/Applio)
 
 ## 加入交流
 
