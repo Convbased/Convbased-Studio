@@ -1,5 +1,5 @@
-<img src="./assets/cover.png" width="100%" />
-
+<img src="/assets/cover.png" width="100%" />
+<hr />
 <div align="center">
 
 [![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-Models-yellow?style=for-the-badge)](https://huggingface.co/PluginsKers/Convbased-Studio)
@@ -44,7 +44,7 @@
 
 ## 加入交流
 
-<img src="./assets/qrcode.png" width="256px" height="256px" />
+<img src="/assets/qrcode.png" width="256px" height="256px" />
 
 
 *致力于推进中文语音合成技术的发展，该底模已用于微调大部分模型于 [Convbased Studio](https://weights.chat/)*
