@@ -11,20 +11,14 @@
 
 本项目专注于训练高质量的预训练底模，为语音转换任务提供强大的基础模型支持。
 
-| 特征提取 | 声码器 | 40k | 48k |
+| 特征提取 | 声码器 | 采样率40k | 采样率48k |
 |-----------|--------|-----|-----|
-| contentvec | hifigannsf | ❌ | [![Download](https://img.shields.io/badge/下载-HuggingFace-yellow)](https://huggingface.co/PluginsKers/Convbased-Studio/tree/main/embedders/contentvec/hifigan-nsf/476sid) |
-| contentvec | sifigan | ❌ | [![Download](https://img.shields.io/badge/下载-HuggingFace-yellow)](https://huggingface.co/PluginsKers/Convbased-Studio/tree/main/embedders/contentvec/sifigan) |
-| contentvec | refinegan | ❌ | ❌ |
-| contentvec | hifiganmrf | ❌ | ❌ |
+| contentvec | hifigannsf | ❌ | [![Download](https://img.shields.io/badge/下载-HuggingFace-yellow)](https://huggingface.co/PluginsKers/Convbased-Studio/tree/main/contentvec/hifigan-nsf/476sid) |
+| contentvec | sifigan | ❌ | [![Download](https://img.shields.io/badge/下载-HuggingFace-yellow)](https://huggingface.co/PluginsKers/Convbased-Studio/tree/main/contentvec/sifigan) |
 | spin | hifigannsf | ❌ | ❌ |
-| spin | sifigan | ❌ | [![Download](https://img.shields.io/badge/下载-HuggingFace-yellow)](https://huggingface.co/PluginsKers/Convbased-Studio/tree/main/embedders/spin/sifigan) |
-| spin | refinegan | ❌ | ❌ |
-| spin | hifiganmrf | ❌ | ❌ |
-| chinese-hubert-base | hifigannsf | ❌ | [![Download](https://img.shields.io/badge/下载-HuggingFace-yellow)](https://huggingface.co/PluginsKers/Convbased-Studio/tree/main/embedders/chinese-hubert-base/hifigan-nsf) |
+| spin | sifigan | ❌ | [![Download](https://img.shields.io/badge/下载-HuggingFace-yellow)](https://huggingface.co/PluginsKers/Convbased-Studio/tree/main/spin/sifigan) |
+| chinese-hubert-base | hifigannsf | ❌ | [![Download](https://img.shields.io/badge/下载-HuggingFace-yellow)](https://huggingface.co/PluginsKers/Convbased-Studio/tree/main/chinese-hubert-base/hifigan-nsf) |
 | chinese-hubert-base | sifigan | ❌ | ❌ |
-| chinese-hubert-base | refinegan | ❌ | ❌ |
-| chinese-hubert-base | hifiganmrf | ❌ | ❌ |
 
 ## 许可证
 
