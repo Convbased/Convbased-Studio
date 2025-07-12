@@ -15,7 +15,7 @@
 |-----------|--------|-----|-----|
 | contentvec | hifigannsf | ❌ | [![Download](https://img.shields.io/badge/下载-HuggingFace-yellow)](https://huggingface.co/PluginsKers/Convbased-Studio/tree/main/contentvec/hifigan-nsf/476sid) |
 | contentvec | sifigan | ❌ | [![Download](https://img.shields.io/badge/下载-HuggingFace-yellow)](https://huggingface.co/PluginsKers/Convbased-Studio/tree/main/contentvec/sifigan) |
-| spin | hifigannsf | ❌ | ❌ |
+| spin | hifigannsf | ❌ |  [![Download](https://img.shields.io/badge/下载-HuggingFace-yellow)](https://huggingface.co/PluginsKers/Convbased-Studio/tree/main/spin/hifigan-nsf) |
 | spin | sifigan | ❌ | [![Download](https://img.shields.io/badge/下载-HuggingFace-yellow)](https://huggingface.co/PluginsKers/Convbased-Studio/tree/main/spin/sifigan) |
 | chinese-hubert-base | hifigannsf | ❌ | [![Download](https://img.shields.io/badge/下载-HuggingFace-yellow)](https://huggingface.co/PluginsKers/Convbased-Studio/tree/main/chinese-hubert-base/hifigan-nsf) |
 | chinese-hubert-base | sifigan | ❌ | ❌ |
