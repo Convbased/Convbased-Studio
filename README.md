@@ -7,30 +7,31 @@
 
 </div>
 
-## 项目简介
+## Introduction
 
-本项目专注于训练高质量的预训练底模，为语音转换任务提供强大的基础模型支持。
+This project focuses on training high-quality pre-trained models.
 
-| 特征提取 | 声码器 | 采样率40k | 采样率48k |
+| Feature Extractor | Vocoder | Sample Rate 40k | Sample Rate 48k |
 |-----------|--------|-----|-----|
-| contentvec | hifigannsf | ❌ | [![Download](https://img.shields.io/badge/下载-HuggingFace-yellow)](https://huggingface.co/PluginsKers/Convbased-Studio/tree/main/contentvec/hifigan-nsf/476sid) |
-| contentvec | sifigan | ❌ | [![Download](https://img.shields.io/badge/下载-HuggingFace-yellow)](https://huggingface.co/PluginsKers/Convbased-Studio/tree/main/contentvec/sifigan) |
-| spin | hifigannsf | ❌ |  [![Download](https://img.shields.io/badge/下载-HuggingFace-yellow)](https://huggingface.co/PluginsKers/Convbased-Studio/tree/main/spin/hifigan-nsf) |
-| spin | sifigan | ❌ | [![Download](https://img.shields.io/badge/下载-HuggingFace-yellow)](https://huggingface.co/PluginsKers/Convbased-Studio/tree/main/spin/sifigan) |
-| chinese-hubert-base | hifigannsf | ❌ | [![Download](https://img.shields.io/badge/下载-HuggingFace-yellow)](https://huggingface.co/PluginsKers/Convbased-Studio/tree/main/chinese-hubert-base/hifigan-nsf) |
-| chinese-hubert-base | sifigan | ❌ | ❌ |
+| contentvec | hifigannsf | ❌ | [![Download](https://img.shields.io/badge/Download-HuggingFace-yellow)](https://huggingface.co/PluginsKers/Convbased-Studio/tree/main/contentvec/hifigan-nsf/476sid) |
+| contentvec | sifigan | ❌ | [![Download](https://img.shields.io/badge/Download-HuggingFace-yellow)](https://huggingface.co/PluginsKers/Convbased-Studio/tree/main/contentvec/sifigan) |
+| spin | hifigannsf | ❌ |  [![Download](https://img.shields.io/badge/Download-HuggingFace-yellow)](https://huggingface.co/PluginsKers/Convbased-Studio/tree/main/spin/hifigan-nsf) |
+| spin | sifigan | ❌ | [![Download](https://img.shields.io/badge/Download-HuggingFace-yellow)](https://huggingface.co/PluginsKers/Convbased-Studio/tree/main/spin/sifigan) |
+| chinese-hubert-base | hifigannsf | ❌ | [![Download](https://img.shields.io/badge/Download-HuggingFace-yellow)](https://huggingface.co/PluginsKers/Convbased-Studio/tree/main/chinese-hubert-base/hifigan-nsf) |
+| contentvec | bigvgan | [![Download](https://img.shields.io/badge/Download-HuggingFace-yellow)](https://huggingface.co/PluginsKers/Convbased-Studio/tree/main/contentvec/BigVGAN) | ❌ |
 
-## 许可证
+## License
 
-本项目采用 MIT 许可证，详见 [LICENSE](LICENSE) 文件。
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 贡献
+## Contributing
 
-欢迎提交Issues和Pull Requests来帮助改进项目！
+Issues and Pull Requests are welcome to help improve the project!
 
-## 加入交流
+## Join the Community
 
 <img src="/assets/qrcode.png" width="256px" height="256px" />
 
+*Training code from [Applio](https://github.com/IAHispano/Applio).*
 
-*致力于推进中文语音合成技术的发展，该底模已用于微调大部分模型于 [Convbased Studio](https://weights.chat/)*
+*Dedicated to advancing Chinese speech synthesis technology. These base models have been used for fine-tuning most models at [Convbased Studio](https://weights.chat/).*
