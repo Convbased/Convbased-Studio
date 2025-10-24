@@ -11,7 +11,7 @@
 
 This project focuses on training high-quality pre-trained models.
 
-| Feature Extractor | Vocoder | Sample Rate 40k | Sample Rate 48k |
+| Embedder | Vocoder | Sample Rate 40k | Sample Rate 48k |
 |-----------|--------|-----|-----|
 | contentvec | hifigannsf | ❌ | [![Download](https://img.shields.io/badge/Download-HuggingFace-yellow)](https://huggingface.co/PluginsKers/Convbased-Studio/tree/main/contentvec/hifigan-nsf/476sid) |
 | contentvec | sifigan | ❌ | [![Download](https://img.shields.io/badge/Download-HuggingFace-yellow)](https://huggingface.co/PluginsKers/Convbased-Studio/tree/main/contentvec/sifigan) |
