@@ -13,12 +13,13 @@ This project focuses on training high-quality pre-trained models.
 
 | Embedder | Vocoder | Sample Rate 40k | Sample Rate 48k |
 |-----------|--------|-----|-----|
-| contentvec | hifigannsf | ❌ | [![Download](https://img.shields.io/badge/Download-HuggingFace-yellow)](https://huggingface.co/PluginsKers/Convbased-Studio/tree/main/contentvec/hifigan-nsf/476sid) |
-| contentvec | sifigan | ❌ | [![Download](https://img.shields.io/badge/Download-HuggingFace-yellow)](https://huggingface.co/PluginsKers/Convbased-Studio/tree/main/contentvec/sifigan) |
-| spin | hifigannsf | ❌ |  [![Download](https://img.shields.io/badge/Download-HuggingFace-yellow)](https://huggingface.co/PluginsKers/Convbased-Studio/tree/main/spin/hifigan-nsf) |
-| spin | sifigan | ❌ | [![Download](https://img.shields.io/badge/Download-HuggingFace-yellow)](https://huggingface.co/PluginsKers/Convbased-Studio/tree/main/spin/sifigan) |
-| chinese-hubert-base | hifigannsf | ❌ | [![Download](https://img.shields.io/badge/Download-HuggingFace-yellow)](https://huggingface.co/PluginsKers/Convbased-Studio/tree/main/chinese-hubert-base/hifigan-nsf) |
+| contentvec | hifigannsf | ❌ | [![Download](https://img.shields.io/badge/Download-HuggingFace-yellow)](https://huggingface.co/PluginsKers/Convbased-Studio/tree/main/contentvec/HiFiGAN/476sid) |
+| contentvec | sifigan | ❌ | [![Download](https://img.shields.io/badge/Download-HuggingFace-yellow)](https://huggingface.co/PluginsKers/Convbased-Studio/tree/main/contentvec/SiFiGAN) |
+| spin | hifigannsf | ❌ |  [![Download](https://img.shields.io/badge/Download-HuggingFace-yellow)](https://huggingface.co/PluginsKers/Convbased-Studio/tree/main/spin/HiFiGAN) |
+| spin | sifigan | ❌ | [![Download](https://img.shields.io/badge/Download-HuggingFace-yellow)](https://huggingface.co/PluginsKers/Convbased-Studio/tree/main/spin/SiFiGAN) |
+| chinese-hubert-base | hifigannsf | ❌ | [![Download](https://img.shields.io/badge/Download-HuggingFace-yellow)](https://huggingface.co/PluginsKers/Convbased-Studio/tree/main/chinese-hubert-base/HiFiGAN) |
 | contentvec | bigvgan | [![Download](https://img.shields.io/badge/Download-HuggingFace-yellow)](https://huggingface.co/PluginsKers/Convbased-Studio/tree/main/contentvec/BigVGAN) | ❌ |
+| spin-v2 | bigvgan | [![Download](https://img.shields.io/badge/Download-HuggingFace-yellow)](https://huggingface.co/PluginsKers/Convbased-Studio/tree/main/spin-v2/BigVGAN) | ❌ |
 
 ## License
 
